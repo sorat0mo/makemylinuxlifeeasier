@@ -8,7 +8,9 @@ This is a repo for writing stuffs I learned when I game on Ubuntu and (mainly) K
 As of 2021/08/25:
 
 CPU: AMD R5 5600X
+
 GPU: MSI RTX 3060 Ti Gaming X Trio
+
 RAM: Crucial Ballistix 32GB Black
 
 OS: Kubuntu 21.04
