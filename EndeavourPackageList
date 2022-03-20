@@ -1,0 +1,5 @@
+...Because I need to remember what the hell I have to install
+
+ArchRepo: git micro fcitx5 fcitx5-table-extra flatpak qt5-imageformats ufw gufw nvidia nvidia-dkms latte-dock
+AUR: mullvad-vpn-bin
+Flatpak: librewolf-community haruna easyeffects
