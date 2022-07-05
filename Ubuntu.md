@@ -12,7 +12,7 @@ To install it, do `sudo apt install gamemode`
 
 ### 2. Mangohud and GOverlay
 
-Afterburner and Rivatuner is not on Linux, but there is a replacement for the huds. Mangohud replicates that of afterburner and looks pretty good out of the box.
+Afterburner and Rivatuner is not on Linux, but there is a replacement. Mangohud copies the look of afterburner and looks pretty good out of the box.
 
 Goverlay is the GUI for configuring mangohud. Keep in mind though, the goverlay version in main Ubuntu repo is **outdated**, so use the author's repo instead:
 ```
