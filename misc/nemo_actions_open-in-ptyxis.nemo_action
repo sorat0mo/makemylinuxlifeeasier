@@ -1,0 +1,10 @@
+[Nemo Action]
+Active=true
+Name=Open Ptyxis Here
+Comment=Open Ptyxis in the current directory.
+Exec=flatpak run app.devsuite.Ptyxis --new-window -d %P
+Icon-Name=app.devsuite.Ptyxis
+Selection=none
+Extensions=dir;
+Quote=double
+Dependencies=/var/lib/flatpak/exports/share/applications/app.devsuite.Ptyxis.desktop
